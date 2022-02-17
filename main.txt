@@ -1,2 +1,8 @@
 //Cuerpo principal de la app. algo más
 el main de mi aplicación
+
+//Cuerpo principal de la app
+el main de mi aplicación
+
+instrucciones agregadas directamente en el repositorio remoto
+
