@@ -1,2 +1,2 @@
-//Cuerpo principal de la app
+//Cuerpo principal de la app. algo más
 el main de mi aplicación
